@@ -42,19 +42,19 @@ README.md
 ### Compile
 
 ```bash
-g++ SnakeGame.cpp -o snake.exe
+g++ Snake.cpp -o snakecpp.exe
 ```
 
 ### Run
 
 ```bash
-./snake.exe
+./snakecpp.exe
 ```
 
 or on Windows PowerShell
 
 ```powershell
-.\snake.exe
+.\snakecpp.exe
 ```
 
 ---
